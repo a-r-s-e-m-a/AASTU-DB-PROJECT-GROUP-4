@@ -2,7 +2,7 @@
 
  ## Group Members
 - Betelhem Solomon — Role
--  
+-  Arsema Yeshidnber - DOCUMENTATION LEAD 
 
 ## Description
 A database system to manage books, students, and borrowing records
